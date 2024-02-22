@@ -22,7 +22,7 @@ if c == "1":
     os.system("npm install cloudscraper")
     os.system("npm install cluster")
     os.system("npm install gradient-string")
-    os.system("npm install fake-useragent
+    os.system("npm install fake-useragent")
     os.system("npm install useragent")
     os.system("npm install user-agents")
     os.system("npm install user-agents")
